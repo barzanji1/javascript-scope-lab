@@ -1,3 +1,4 @@
+
 // Step 1: Variable Data (Global Scope)
 var burgers = ['Hamburger', 'Cheeseburger'];
 var featuredDrink = 'Strawberry Milkshake';
@@ -18,3 +19,5 @@ if (true) {
 function changeFeaturedDrink() {
   featuredDrink = 'The JavaShake';  // Modifies global variable
 }
+=======
+// Write your solution in this file!
