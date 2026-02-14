@@ -19,5 +19,5 @@ if (true) {
 function changeFeaturedDrink() {
   featuredDrink = 'The JavaShake';  // Modifies global variable
 }
-=======
+
 // Write your solution in this file!
